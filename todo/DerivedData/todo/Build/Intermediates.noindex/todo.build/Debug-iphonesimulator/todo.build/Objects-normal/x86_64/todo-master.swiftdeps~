@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "88cc1b672de58ef83e02e0e2371b3765"
+build_time: [1565981102, 415923000]
+inputs:
+  "/Users/devslopes/Desktop/todo/todo/Controller/TodoVC.swift": [1565981075, 198800373]
+  "/Users/devslopes/Desktop/todo/todo/View/TodoCell.swift": [1565977836, 949720454]
+  "/Users/devslopes/Desktop/todo/todo/AppDelegate.swift": [1565973886, 149257007]
+  "/Users/devslopes/Desktop/todo/todo/Model/APIError.swift": [1565975327, 490924046]
+  "/Users/devslopes/Desktop/todo/todo/Services/NetworkService.swift": [1565980507, 297943449]
+  "/Users/devslopes/Desktop/todo/todo/Model/Todo.swift": [1565979596, 780291103]
